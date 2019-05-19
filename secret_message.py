@@ -3,6 +3,8 @@
 Created on Thu Jan 31 17:18:47 2019
 
 @author: Emanuel
+
+Encrypting and Decrypting Messages. Easy to use GraphicalUserInterface
 """
 
 
