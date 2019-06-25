@@ -7,7 +7,7 @@ Created on Sun May 19 20:42:12 2019
 A little function that takes a ".csv" file with all the transaction-data exported from Kraken.com and
 calculates the average buy-in/break-even price and total holdings of Bitcoin, Ethereum & Ripple
 and the total buying cost. Recently I also added a feature that tells you how much of your holdings
-you can sell without paying taxes on the capital-gains (1 Year holding).
+you can sell without paying capital-gains-tax (1 Year holding).
 
 """
 
